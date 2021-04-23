@@ -1,0 +1,19 @@
+ul {
+margin: 0;
+padding: 0;
+list-style: none;
+width: 150px;
+}
+
+li ul {
+position: absolute;
+left: 149px;
+top: 0;
+display: none;
+}
+
+.texto-negrito {
+    font-style: italic;
+    font-size: 15pt;
+    font-weight: 600;
+}

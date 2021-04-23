@@ -1,0 +1,28 @@
+body {
+    font-family: verdana;
+    font-size: 14px;
+}
+
+.fleft {
+    float: left;
+}
+
+h1 {
+    width: 100%;
+    text-align: center;
+}
+
+figure {
+    float: right;
+    border-style: solid;
+    border-width: medium;
+    border-color: gray;
+    padding: 6px;
+}
+
+figcaption {
+    margin-top: 10px;
+    margin-bottom: -2px;
+    background-color: lightgrey;
+    text-align: center;
+}

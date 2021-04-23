@@ -1,0 +1,40 @@
+body{
+ 
+    background-image: url(imagens/fundo.jpg);
+  }
+
+#menu ul {
+
+    padding:0px;
+    margin:0px;
+    background-color:#EDEDED;
+    list-style:none;
+    display: inline;
+    
+}
+
+#menu ul a {
+    padding: 4px 20px; 
+    display: inline-block;
+
+    /* visual do link */
+    background-color:#EDEDED;
+    color: #333;
+    text-decoration: none;
+    border-bottom:3px solid #EDEDED;
+}
+#menu ul a:hover {
+    background-color:#D6D6D6;
+    color: #6D6D6D;
+    border-bottom:3px solid #FFB90F;
+}
+
+.ingredientes {
+    position: relative;
+    width: 800px;
+    height: 20px;
+    background-color: rgba(255,255,255, 0.5);
+    margin: 20px;
+    padding: 5px;
+    
+}
